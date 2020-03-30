@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MotorDeRegras.Api</name>
+    </assembly>
+    <members>
+        <member name="M:MotorDeRegras.Api.Controllers.ValueController.Get(System.Int32)">
+            <summary>
+            Teste de descrição do método controlador
+            </summary>
+            <remarks>
+            </remarks>
+            <returns>Hellow World</returns>
+            <response code="200">Retorna um hellow world</response>
+            <response code="400">Erro retornado</response>
+        </member>
+    </members>
+</doc>

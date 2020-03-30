@@ -1,0 +1,9 @@
+E:\Projetos\Vibbra\MotorDeRegras\MotorDeRegras.Domain\bin\Debug\netcoreapp2.2\MotorDeRegras.Domain.deps.json
+E:\Projetos\Vibbra\MotorDeRegras\MotorDeRegras.Domain\bin\Debug\netcoreapp2.2\MotorDeRegras.Domain.dll
+E:\Projetos\Vibbra\MotorDeRegras\MotorDeRegras.Domain\bin\Debug\netcoreapp2.2\MotorDeRegras.Domain.pdb
+E:\Projetos\Vibbra\MotorDeRegras\MotorDeRegras.Domain\obj\Debug\netcoreapp2.2\MotorDeRegras.Domain.csprojAssemblyReference.cache
+E:\Projetos\Vibbra\MotorDeRegras\MotorDeRegras.Domain\obj\Debug\netcoreapp2.2\MotorDeRegras.Domain.csproj.CoreCompileInputs.cache
+E:\Projetos\Vibbra\MotorDeRegras\MotorDeRegras.Domain\obj\Debug\netcoreapp2.2\MotorDeRegras.Domain.AssemblyInfoInputs.cache
+E:\Projetos\Vibbra\MotorDeRegras\MotorDeRegras.Domain\obj\Debug\netcoreapp2.2\MotorDeRegras.Domain.AssemblyInfo.cs
+E:\Projetos\Vibbra\MotorDeRegras\MotorDeRegras.Domain\obj\Debug\netcoreapp2.2\MotorDeRegras.Domain.dll
+E:\Projetos\Vibbra\MotorDeRegras\MotorDeRegras.Domain\obj\Debug\netcoreapp2.2\MotorDeRegras.Domain.pdb
